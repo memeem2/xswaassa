@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+ssl/
+*.deb
+*.changes
+*.buildinfo
+*.dsc
+debian/charger-monitor/
+debian/.debhelper/
+debian/files
+debian/*.debhelper
+debian/*.log
+tuya-raw.json
+snapshot.json
